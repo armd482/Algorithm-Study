@@ -65,6 +65,8 @@
     print(ans)
   
 ***
+<br/>
+<br/>
 
 ### 2. 오큰수([백준 17298번][17298Link])
 [17298Link]: https://www.acmicpc.net/problem/17298
