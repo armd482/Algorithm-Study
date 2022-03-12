@@ -3,8 +3,7 @@
 ### 1. 창고다각형([백준 2304번][2304Link])
 [2304Link]: https://www.acmicpc.net/problem/2304
 
-* * *
-#### 풀이과정
+### 풀이과정
 <br/>
 
 ![2304 input](https://user-images.githubusercontent.com/89967066/158007696-cffb0193-e537-41fe-9e1b-8bb1b1eaa7f3.png)
