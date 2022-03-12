@@ -2,7 +2,10 @@
 ## 1st Week
 ### 1. 창고다각형([백준 2304번][2304Link])
 [2304Link]: https://www.acmicpc.net/problem/2304
-Python Code:
+
+####접근 방법
+
+*Python Code:
 
     max_num = 0 # 최고 높이를 구하기 위한 변수 설정
     max_loc = [] #최고 높이를 갖는 index값들 저장
