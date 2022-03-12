@@ -88,6 +88,9 @@
 결과 값을 해당 값으로 출력하는 방식을 떠올림.
 
 <br/>
+![17298 way](https://user-images.githubusercontent.com/89967066/158010187-efa14767-9b3a-4258-b01a-8243fa586067.png)
+
+<br/>
 <br/>
 
 ![2304 exa](https://user-images.githubusercontent.com/89967066/158008418-7728c038-2cd0-49aa-ba8e-a2f2aaaf31cf.jpg)
