@@ -7,14 +7,14 @@
 ## 풀이과정
 ![2304 input](https://user-images.githubusercontent.com/89967066/158007696-cffb0193-e537-41fe-9e1b-8bb1b1eaa7f3.png)
 입력 데이터를 어떤 식으로 받을지 고민을 하다, 문제에서 N과 L이 모두 1000이하이므로, 공간이 1000인 빈 리스트를 만들어 입력받은 L값에 해당되는 index에 해당 높이를 넣는 방식으로 데이터를 저장.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+& 
+&
+&
+&
+&
+&
+&
+&
 
 &NewLine;
 &NewLine;
