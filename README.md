@@ -10,6 +10,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![2304 graph](https://user-images.githubusercontent.com/89967066/158007765-176a5448-1b93-4f22-bb58-6a76c1f95b2b.png)
 
 이후 최고 높이를 기준으로, 왼쪽부분은 index를 증가시키면서 더하는 걸로, 오른쪽은 index를 감소시키면서 더하는 방식을 생각
