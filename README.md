@@ -27,7 +27,6 @@
 높이를 더하는 과정에서 n값이 1000이하이므로, 그냥 for문을 통해서 구현하기로 결정.
 
 * * *
-1. 이중 for문을 이용한 n^2
 
 Python Code
 
@@ -66,4 +65,4 @@ Python Code
         ans += val
     print(ans)
   
-
+***
