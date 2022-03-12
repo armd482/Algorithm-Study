@@ -8,6 +8,7 @@
 <br/>
 
 ![2304 input](https://user-images.githubusercontent.com/89967066/158007696-cffb0193-e537-41fe-9e1b-8bb1b1eaa7f3.png)
+<br/>
 입력 데이터를 어떤 식으로 받을지 고민을 하다, 문제에서 N과 L이 모두 1000이하이므로, 공간이 1000인 빈 리스트를 만들어 입력받은 L값에 해당되는 index에 해당 높이를 넣는 방식으로 데이터를 저장.
 <br/>
 <br/>
@@ -15,6 +16,7 @@
 <br/>
 
 ![2304 graph](https://user-images.githubusercontent.com/89967066/158007765-176a5448-1b93-4f22-bb58-6a76c1f95b2b.png)
+<br/>
 이후 최고 높이를 기준으로, 왼쪽부분은 index를 증가시키면서 더하는 걸로, 오른쪽은 index를 감소시키면서 더하는 방식을 생각
 <br/>
 <br/>
