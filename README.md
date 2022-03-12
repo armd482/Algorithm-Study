@@ -1,2 +1,4 @@
 # Algorithm-Study
-Using Python
+
+#1 창고 다격형(https://www.acmicpc.net/problem/2304)
+  PRINT
