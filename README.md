@@ -5,5 +5,5 @@ Link: [백준 2304번][2304link]
 
 
 
-// 주소
+** 주소
 [2304link]: https://www.acmicpc.net/problem/2304 "Go google"
