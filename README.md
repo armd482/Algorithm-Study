@@ -3,7 +3,10 @@
 ### 1. 창고다각형([백준 2304번][2304Link])
 [2304Link]: https://www.acmicpc.net/problem/2304
 
-#### 접근 방법
+* * *
+* 접근 방법
+* * *
+1. 이중 for문을 이용한 n^2
 
 Python Code
 
