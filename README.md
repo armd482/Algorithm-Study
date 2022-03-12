@@ -65,6 +65,9 @@
     print(ans)
   
 ***
+#### 결과
+![2304 result](https://user-images.githubusercontent.com/89967066/158008710-b73e62d9-e939-4eba-b3c4-d965541e34c4.png)
+***
 <br/>
 <br/>
 
