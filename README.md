@@ -4,7 +4,7 @@
 [2304Link]: https://www.acmicpc.net/problem/2304
 
 * * *
-## 풀이과정
+#### 풀이과정
 <br/>
 
 ![2304 input](https://user-images.githubusercontent.com/89967066/158007696-cffb0193-e537-41fe-9e1b-8bb1b1eaa7f3.png)
@@ -28,7 +28,7 @@
 
 * * *
 
-### Python Code
+#### Python Code
 
     max_num = 0 # 최고 높이를 구하기 위한 변수 설정
     max_loc = [] #최고 높이를 갖는 index값들 저장
